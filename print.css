@@ -1,0 +1,55 @@
+body{
+	background-image: url(bg.jpg);
+	background-position: center;
+	background-attachment: fixed;
+}
+.img{
+	display: none;
+}
+.write{
+	display: none;
+}
+.hboard{
+	background: #FFFFFF;
+	border-radius: 10px;
+	padding: 2px;
+	opacity: 0.9;
+
+}
+.sboard{
+	background: #FFFFFF;
+	border-radius: 8px;
+	border: 3px solid #0600B3;
+	font-family: ArialRoundedMTBold;
+	font-size: 18px;
+	opacity: 0.8;
+}
+.ddboard{
+	background: #FFFFFF;
+	border-radius: 8px;
+	border: solid 3px #0600B3;
+	font-family: ArialRoundedMTBold;
+	font-size: 18px;
+	opacity: 0.8;
+}
+input::placeholder {
+  color: white;
+}
+.fail{
+	color: red;
+}
+.good{
+	color: green;
+}
+.t1{
+	display: none;
+}
+.t3{
+	color: #0600B3;
+}
+.t2{
+	display: none;
+}
+.t4{
+	display: none;
+}
